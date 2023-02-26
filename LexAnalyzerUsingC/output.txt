@@ -1,0 +1,14 @@
+
+0	void Keyword
+0	main Keyword
+0	)	 Special character
+1	{	 Special character
+2	printf identifier
+2	hello identifier
+2	world identifier
+2	)	 Special character
+2	;	 Special character
+3	int Keyword
+3	a identifier
+3	10	 Digit
+4	}	 Special character
